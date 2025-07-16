@@ -1,4 +1,4 @@
-# SmartBridgeProject  CNN Model to Classify Pollen Grains based on user input
+# SmartBridgeProject:CNN Model to Classify Pollen Grains based on user input
 Dataset:
 The dataset used for this project is Pollen Grain Image Classification Dataset from Kaggle. The classification of pollen species and types is an important task in many areas like forensic palynology, archaeological palynology and melissopalynology. This is the first annotated image dataset for the Brazilian Savannah pollen types that can be used to train and test computer vision based automatic pollen classifiers.
 
